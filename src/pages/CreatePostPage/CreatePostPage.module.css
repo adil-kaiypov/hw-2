@@ -1,0 +1,16 @@
+.creation form{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.creation label{
+    font-size: 1.4em;
+    text-align: left;
+}
+
+.creation button{
+    font-size: 1.4em;
+    border-radius: 25px;
+}

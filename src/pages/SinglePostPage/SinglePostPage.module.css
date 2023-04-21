@@ -1,0 +1,10 @@
+p{
+    text-align: justify;
+    font-size: 1.4em;
+}
+
+button{
+    margin-top: 50px;
+    font-size: 1.4em;
+    transition: 0.2s ease-in-out;
+}

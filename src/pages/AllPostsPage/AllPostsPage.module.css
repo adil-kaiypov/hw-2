@@ -1,0 +1,13 @@
+.posts{
+    margin-top: 75px;
+    margin-left: 50px;
+    font-size: 2em;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}   
+li{
+    margin: 20px 0;
+}
